@@ -3,10 +3,10 @@
   <img src="https://i.postimg.cc/cH2dyvVv/Git-Hub-Header-Design-Ideas.png" alt="Green Banner" width="100%" />
 
   # Hi, I'm <span style="color: #2ea44f">Arick Vigas</span> 🌿
-
-  <br/><br/>
   
   ## Wander. Learn. Build.
+
+  <br/><br/>
 
   <p><em>I move through the world to understand it — and leave something useful behind.</em></p>
   <p><em>I’m not chasing success — I’m chasing clarity.</em></p>
