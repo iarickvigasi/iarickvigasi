@@ -4,9 +4,7 @@
 
   # Hi, I'm <span style="color: #2ea44f">Arick Vigas</span> 🌿
   
-  ## Wander. Learn. Build.
-
-  <br/><br/>
+  <p>Wander. Learn. Build.</p>
 
   <p><em>I move through the world to understand it — and leave something useful behind.</em></p>
   <p><em>I’m not chasing success — I’m chasing clarity.</em></p>
