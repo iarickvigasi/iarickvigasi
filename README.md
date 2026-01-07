@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/800x200/0f2e18/ffffff?text=Welcome+to+my+Digital+Garden" alt="Green Banner" width="100%" />
+  <img src="[https://via.placeholder.com/800x200/0f2e18/ffffff?text=Welcome+to+my+Digital+Garden](https://i.postimg.cc/cH2dyvVv/Git-Hub-Header-Design-Ideas.png)" alt="Green Banner" width="100%" />
 
   # Hi, I'm <span style="color: #2ea44f">Arick Vigas</span> 🌿
 
