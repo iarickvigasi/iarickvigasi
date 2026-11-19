@@ -8,6 +8,12 @@
 
   <p><em>I move through the world to understand it — and leave something useful behind.</em></p>
   <p><em>I’m not chasing success — I’m chasing clarity.</em></p>
+
+  <p>
+    <a href="https://arickvigas.com">arickvigas.com</a> ·
+    <a href="https://arickvigas.com/timeline/">Timeline</a> ·
+    <a href="https://arickvigas.com/case-studies/">Case studies</a>
+  </p>
   
 
   ---
